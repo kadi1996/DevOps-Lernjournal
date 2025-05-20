@@ -86,8 +86,8 @@ Link auf separates Git-Repo für jedes Kapitel. ✅
 | ------- | ------- |
 | Review durch | guenekad |
 | Review von | filipkar |
-|  | Sprache, Kommunikation, roter Faden Sprachlich klar, sauber und sehr gut strukturiert. Kommunikation präzise und eloquent. Roter Faden deutlich erkennbar. |
-| Nachvollziehbarkeit Inhalt, Demonstaration | Der Inhalt ist durchgehend sehr gut nachvollziehbar und gut erklärt. Demos waren anschaulich und praxisnah, was das Verständnis zusätzlich erleichtert hat. Alles in Allem eine gelungene Präsi |
+| Sprache, Kommunikation, roter Faden | Im grossen und ganzen ist die Präsentation klar, sauber und sehr gut strukturiert. Karlo spricht frei und kommuniziert präzise und eloquent. Ein roter Faden ist deutlich erkennbar. |
+| Nachvollziehbarkeit Inhalt, Demonstaration | Der Inhalt ist durchgehend sehr gut nachvollziehbar und gut erklärt. Demos waren anschaulich und praxisnah, was das Verständnis zusätzlich erleichtert hat. Alles in Allem eine gelungene Präsentation |
 
 ## Persönliches Fazit der Vorlesung
 
