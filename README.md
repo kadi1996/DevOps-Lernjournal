@@ -8,7 +8,7 @@
 * Alle Repositories müssen an [mosazhaw] (https://www.github.com/mosazhaw) freigegeben sein ✅ 
 
 ### Struktur
-* Kapitelstruktur inkl. Nummerierung einhalten (die Reihenfolge, Struktur und Bezeichnung der Titel und Untertitel darf nicht verändert werden) ✅ (leicht verändert)
+* Kapitelstruktur inkl. Nummerierung einhalten (die Reihenfolge, Struktur und Bezeichnung der Titel und Untertitel darf nicht verändert werden) ✅ (CI/CD ist in einem Repo)
 * Es dürfen weitere Untertitel (4. Ebene mit ####) ergänzt werden ✅
 
 ### Inhalt
