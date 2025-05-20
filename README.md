@@ -3,9 +3,9 @@
 ## Regeln Lernjournal
 
 ### Repository
-* Eigenes *privates* Haupt-Repository basierend auf dieser Vorlage erstellen
-* Weitere vorgegebene *private* Repositories verwenden
-* Alle Repositories müssen an [mosazhaw] (https://www.github.com/mosazhaw) freigegeben sein
+* Eigenes *privates* Haupt-Repository basierend auf dieser Vorlage erstellen ✅
+* Weitere vorgegebene *private* Repositories verwenden ✅
+* Alle Repositories müssen an [mosazhaw] (https://www.github.com/mosazhaw) freigegeben sein 
 
 ### Struktur
 * Kapitelstruktur inkl. Nummerierung einhalten (die Reihenfolge, Struktur und Bezeichnung der Titel und Untertitel darf nicht verändert werden)
@@ -62,12 +62,11 @@ Link auf separates Git-Repo für jedes Kapitel.
 
 ## Peer-Feedback
 
-|       | Bitte ausfüllen |
-|-------|-----------------|
-| Review durch (ZHAW-Kürzel) |            |
-| Review von (ZHAW-Kürzel) |            |
-| Sprache, Kommunikation, roter Faden | TODO |
-| Nachvollziehbarkeit Inhalt, Demonstration | TODO |
+| ------- | ------- |
+| Review durch | (guenekad) |
+| Screencast von | (filipkar) |
+|  | Sprache, Kommunikation, roter Faden Sprachlich klar, sauber und sehr gut strukturiert. Kommunikation präzise und eloquent. Roter Faden deutlich erkennbar. |
+| Nachvollziehbarkeit Inhalt, Demonstaration | Der Inhalt ist durchgehend sehr gut nachvollziehbar und gut erklärt. Demos waren anschaulich und praxisnah, was das Verständnis zusätzlich erleichtert hat. Alles in Allem eine gelungene Präsi |
 
 ## Persönliches Fazit der Vorlesung
 
