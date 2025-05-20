@@ -33,18 +33,18 @@
 ## Inhalt
 
 Link auf separates Git-Repo für jedes Kapitel. 
-* [ ] TODO Die Links müssen nach dem Erstellen der eigenen Repos angepasst werden.
+* [✅] TODO Die Links müssen nach dem Erstellen der eigenen Repos angepasst werden.
 
-- [01 Version Control](https://github.com/devopszhaw/DevOps-01-Version-Control)
-- [02 Build](https://github.com/devopszhaw/DevOps-02-Build)
-- [03 DevOpsDemo](https://github.com/devopszhaw/DevOps-03-DevOpsDemo)
-- [04 Containers](https://github.com/devopszhaw/DevOps-04-Containers)
-- [05 Unit Tests](https://github.com/devopszhaw/DevOps-05-Unit-Tests)
-- [06 Quality](https://github.com/devopszhaw/DevOps-06-Quality)
-- [07 CI1](https://github.com/devopszhaw/DevOps-07-CI1)
-- [08 CI2](https://github.com/devopszhaw/DevOps-08-CI2)
-- [09 Deployment Docker](https://github.com/devopszhaw/DevOps-09-Deployment-Docker)
-- [10 Deployment Cloud](https://github.com/devopszhaw/DevOps-10-Deployment-Cloud)
+- [01 Version Control](https://github.com/kadi1996/DevOps-01-Version-Control)
+- [02 Build](https://github.com/kadi1996/DevOps-02-Build)
+- [03 DevOpsDemo](https://github.com/kadi1996/DevOps-03-DevOpsDemo)
+- [04 Containers](https://github.com/kadi1996/DevOps-04-Containers)
+- [05 Unit Tests](https://github.com/kadi1996/DevOps-05-Unit-Tests)
+- [06 Quality](https://github.com/kadi1996/DevOps-06-Quality)
+- [07 CI1](https://github.com/kadi1996/DevOps-07-CI1-DevOps-08-CI2)
+- [08 CI2](https://github.com/kadi1996/DevOps-07-CI1-DevOps-08-CI2?tab=readme-ov-file#lernjournal-cicd-part-2)
+- [09 Deployment Docker](https://github.com/kadi1996/DevOps-09-Deployment-Docker)
+- [10 Deployment Cloud](https://github.com/kadi1996/DevOps-10-Deployment-Cloud)
 
 ## Einführung
 
@@ -63,8 +63,8 @@ Link auf separates Git-Repo für jedes Kapitel.
 ## Peer-Feedback
 | | Bitte Ausfüllen |
 | ------- | ------- |
-| Review durch | (guenekad) |
-| Screencast von | (filipkar) |
+| Review durch | guenekad |
+| Screencast von | filipkar |
 |  | Sprache, Kommunikation, roter Faden Sprachlich klar, sauber und sehr gut strukturiert. Kommunikation präzise und eloquent. Roter Faden deutlich erkennbar. |
 | Nachvollziehbarkeit Inhalt, Demonstaration | Der Inhalt ist durchgehend sehr gut nachvollziehbar und gut erklärt. Demos waren anschaulich und praxisnah, was das Verständnis zusätzlich erleichtert hat. Alles in Allem eine gelungene Präsi |
 
