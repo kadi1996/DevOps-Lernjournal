@@ -85,7 +85,7 @@ Link auf separates Git-Repo für jedes Kapitel. ✅
 | | Bitte Ausfüllen |
 | ------- | ------- |
 | Review durch | guenekad |
-| Screencast von | filipkar |
+| Review von | filipkar |
 |  | Sprache, Kommunikation, roter Faden Sprachlich klar, sauber und sehr gut strukturiert. Kommunikation präzise und eloquent. Roter Faden deutlich erkennbar. |
 | Nachvollziehbarkeit Inhalt, Demonstaration | Der Inhalt ist durchgehend sehr gut nachvollziehbar und gut erklärt. Demos waren anschaulich und praxisnah, was das Verständnis zusätzlich erleichtert hat. Alles in Allem eine gelungene Präsi |
 
